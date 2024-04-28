@@ -3,8 +3,8 @@ $:.push File.expand_path('../lib', __FILE__)
 Gem::Specification.new do |s|
   s.name = 'administrate-field-enum'
   s.version = '0.0.9'
-  s.authors = ['Balbina Santana', 'Adrian Rangel']
-  s.email = ['adrian@disruptiveangels.com']
+  s.authors = ['Daniel Wheeler', 'Tailor Made']
+  s.email = ['tailor.made@customink.com']
   s.homepage = 'https://github.com/DisruptiveAngels/administrate-field-enum'
   s.summary = 'Enum field plugin for Administrate'
   s.description = s.summary
