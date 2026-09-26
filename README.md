@@ -1,3 +1,6 @@
+<!-- OpsLevel Maturity Badge -->
+[![Overall](https://img.shields.io/endpoint?style=flat&url=https://app.opslevel.com/api/service_level/s2X9L7TIoSdahCjdhhpHfdHYsYAPplstk9ONLHO-L5M)](https://app.opslevel.com/services/administrate-field-enum/maturity-report)
+
 ## AdministrateFieldEnum
 [![Gem](https://img.shields.io/gem/v/administrate-field-enum.svg)]()
 
@@ -32,4 +35,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/Disrup
 ## License
 
 [MIT License](https://github.com/DisruptiveAngels/administrate-field-enum/blob/master/LICENSE.md)
-
